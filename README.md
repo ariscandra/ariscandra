@@ -4,7 +4,7 @@
 
 🚀 Learning in:
 
-Python (automation, data analysis)
-Web Development
+- Python
+- Web Development
 
 📚 Currently a student, constantly learning and growing in the field of Information Systems.
